@@ -1,0 +1,16 @@
+/Command/obj
+/Command/bin
+/Decorator/obj
+/Decorator/bin
+/Flyweight/obj
+/Flyweight/bin
+/Observer/obj
+/Observer/bin
+/Prototype/obj
+/Prototype/bin
+/Singleton/obj
+/Singleton/bin
+/State/obj
+/State/bin
+/Strategy/obj
+/Strategy/bin
